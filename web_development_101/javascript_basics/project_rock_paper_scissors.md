@@ -1320,4 +1320,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [m-rejdych's Solution](https://github.com/m-rejdych/rock-paper-scissors)
 - [Rilinda-Abazi's Solution](https://github.com/RilindaA/Rock---Paper---Scissors---Game-Javascript-console-)
 - [Fosnine's Solution](https://github.com/Fosnine/RockPaperSciccors)
+- [loksangho's Solution](https://github.com/loksangho/rock-paper-scissors) - [View in Browser](https://loksangho.github.io/rock-paper-scissors/)
 </details>
