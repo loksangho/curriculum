@@ -543,4 +543,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Timework's Solution](https://github.com/Timework/Calculator) - [View in Browser](https://timework.github.io/Calculator/)
 - [seansean's Solution](https://github.com/seanrson/calculator) - [View in Browser](https://seanrson.github.io/calculator/)
 - [lousaint's Solution](https://github.com/lousaint/calculator) - [View in Browswer](https://lousaint.github.io/calculator/)
+- [loksangho's Solution](https://github.com/loksangho/calculator) - [View in Browswer](https://loksangho.github.io/calculator/)
 </details>
