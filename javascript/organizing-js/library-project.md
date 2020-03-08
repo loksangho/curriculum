@@ -206,4 +206,5 @@ Send us your solution so we can show others! Submit a link below to this [file](
 - [rhath32's Solution](https://github.com/rhath32/library)
 - [Ricardo Gonzalez Villegas' Solution](https://github.com/ricardo-gonzalez-villegas/library) - [View in Browser](https://ricardo-gonzalez-villegas.github.io/library/index.html)
 - [BunnyTheLifeguard's Solution](https://github.com/BunnyTheLifeguard/mini-library) - [View in Browser](https://bunnythelifeguard.github.io/mini-library)
+- [loksangho's Solution](https://github.com/loksangho/BookLibrary) - [View in Browser](https://loksangho.github.io/BookLibrary/)
 </details>
